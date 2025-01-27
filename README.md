@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 ---
 
 ## How to Use 🛠️
-1. **Install the Chrome Extension** (Coming Soon!)
+1. **Install the Chrome Extension** (Coming Soon! Released at a certain MC on Pump.Fun)
 2. Set up your preferences, including fees, slippage, and trading delays.
 3. Start simulating trades and track your performance!
 
