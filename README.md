@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 
 I saw the need for a realistic and fun meme coin trading simulator that others could use and learn from. After hearing others talk about it and seeing one person live stream without a product, I thought, "Why not actually build it first?" I'm also tired of seeing AI larp projects and wanted to create something truly useful for the community.
 
-The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various levels (TBD - up for ideas from community on best path). There will be no nuking or dumping of the chart from myside.
+The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various levels. There will be no nuking or dumping of the chart from myside.
 
 ### How It Will Launch 🚀
 
@@ -16,7 +16,7 @@ The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various
 - CA: Coming Soon
 - **Repository Access**: After the token reaches a certain market cap (probably lower than you'd expect), I'll make the repository public. Anyone will be able to download and use the extension.
 - **Chrome Web Store**: Once the token reaches an even higher market cap, I'll purchase a developer account and officially publish PaperTradr to the Chrome Web Store.
-- **No Nuking, No Dumping**: Will sell small percentages on the way up. Will not sell more than 10% of my 5% initials. Aiming for small 2-3% clips on the way up. Why no locking? Because with this project I don't see using the token as utility tied to the project. That will be my next project. This token is to provide liquidity so I can build out the rest of the features, phase 2 and continue the Trench Terminal.
+- **No Nuking, No Dumping**: Will sell small percentages on the way up. Will not sell more than 10% of my 5% initials. Aiming for small 2-3% clips on the way up. Why no locking? Because with this project I don't see using the token as utility tied to the project. That will be my next project. This token is to provide liquidity so I can build out the rest of the features of phase 2 and beyond, as well as continue the Trench Terminal 👨‍🔬 .
 
 ---
 
