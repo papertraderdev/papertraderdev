@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 
 I saw the need for a realistic and fun meme coin trading simulator that others could use and learn from. After hearing others talk about it and seeing one person live stream without a product, I thought, "Why not actually build it first?" I'm also tired of seeing AI larp projects and wanted to create something truly useful for the community.
 
-I am not going to just Dox myself unless you retire me, but I have 20+ years of dev and tech lead experience at both startups and a fortune 50.
 The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various levels (TBD - up for ideas from community on best path). There will be no nuking or dumping of the chart from myside.
 
 ### How It Will Launch 🚀
