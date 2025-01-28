@@ -16,7 +16,7 @@ The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various
 - **Token Launch**: PaperTradr will initially launch alongside a token on pump.fun.
 - **Repository Access**: After the token reaches a certain market cap (probably lower than you'd expect), I'll make the repository public. Anyone will be able to download and use the extension.
 - **Chrome Web Store**: Once the token reaches an even higher market cap, I'll purchase a developer account and officially publish PaperTradr to the Chrome Web Store.
-- **No Nuking, No Dumping**: Will sell small percentages on the way up. Will not sell more than 10% of my 5% initials. Why no locking? Because this project I don't see using the token as utility. The token is to provide liquidity so I can build out the rest of the features.
+- **No Nuking, No Dumping**: Will sell small percentages on the way up. Will not sell more than 10% of my 5% initials. Why no locking? Because with this project I don't see using the token as utility tied to the project. That will be my next project. This token is to provide liquidity so I can build out the rest of the features, phase 2 and begin the Trench Terminal.
 
 ---
 
