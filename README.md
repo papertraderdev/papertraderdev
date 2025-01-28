@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 ### 🚀 Phase 1: Photon Support
 - ✅ **Buy and Sell Tracking**: Record every trade and keep track of your positions.
 - 📊 **Profit and Loss Tracking**: See how you're performing at a glance.
-- 🎛️ **Customizable Buttons**: Personalize the interface for your trading style.
 - 🌌 **Photon Support**: Trade on Photon, one of the most exciting platforms.
 - 💸 **1% Buy/Sell Fee Simulation**: Replicates the pump.fun trading environment.
 
 ### 🌟 Phase 2: BullX and GmGn Expansion
 - 💥 **BullX and GmGn Support**: Expand your simulation to more platforms.
+- 🎛️ **Customizable Buttons**: Personalize the interface for your trading style.
 - 🎲 **Configurable Random Slippage**: Experience realistic trading conditions.
 - ⏱️ **Configurable Buy Delays**: Simulate delays to reflect real-world trading limitations.
 - 💵 **Customizable Fees**: Add and tweak your own fees, tips, or other costs.
