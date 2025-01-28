@@ -63,7 +63,7 @@ For detailed installation instructions, visit the [PaperTradr repository](https:
 ---
 
 ## Connect with Me 🌐
-- 🐦 **Twitter**: [@papertraderdev](https://twitter.com/papertraderdev)
+- 🐦 **Twitter**: [@papertraderdev](https://twitter.com/papertradr)
 - 🖥️ **Website**: Will be linked on Chrome WebStore after a successful Pump.Fun launch.
 
 ---
