@@ -29,11 +29,12 @@ The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various
 - 🎛️ **Customizable Buttons**: Personalize the interface for your trading style.
 - 🌌 **Photon Support**: Trade on Photon, one of the most exciting platforms.
 - 💸 **1% Buy/Sell Fee Simulation**: Replicates the pump.fun trading environment.
+- ⏱️ **Buy and Sell Delays**: Simulate delays to reflect real-world trading limitations.
+
 
 ### 🌟 Phase 2: BullX and GmGn Expansion
 - 💥 **BullX and GmGn Support**: Expand your simulation to more platforms.
 - 🎲 **Configurable Random Slippage**: Experience realistic trading conditions.
-- ⏱️ **Configurable Buy Delays**: Simulate delays to reflect real-world trading limitations.
 - 💵 **Customizable Fees**: Add and tweak your own fees, tips, or other costs.
 - 🛠️ **Additional Fee Support**: Flexibility to simulate various scenarios.
 
