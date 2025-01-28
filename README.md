@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome extension that lets you simulate meme coin trading across various platforms. Dive into the world of trading without risking a single lamport! 🚀
 
 ---
-[https://github.com/papertraderdev/PaperTradr](PaperTradr)
 ## My Project: PaperTradr 📈
 
 **PaperTradr** is a simulation tool designed to make meme coin trading fun, educational, and risk-free! It currently supports trading on Photon (phase 1) and will expand to BullX and GmGn (phase 2). Let's take a look at its features:
