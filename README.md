@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 Follow these steps to install the extension:
 
 1. **Download the Repository**:
-   - Go to the [repository page](#). (soon)
+   - Go to the [repository page](https://github.com/papertraderdev/PaperTradr). (soon)
    - Click the green "Code" button and select "Download ZIP."
 
 2. **Extract the ZIP**:
