@@ -1,8 +1,24 @@
 # Hi there, I'm @papertraderdev! 👋
 
-Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome extension that lets you simulate meme coin trading across various platforms. Dive into the world of trading without risking a single lamport! 🚀
+Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome extension that lets you simulate meme coin trading across various platforms. Dive into the world of trading without risking a single sat! 🚀
 
 ---
+
+## Why I Created PaperTradr 💡
+
+I saw the need for a realistic and fun meme coin trading simulator that others could use and learn from. After hearing others talk about it and seeing one person live stream without a product, I thought, "Why not actually build it first?" I'm also tired of seeing AI larp projects and wanted to create something truly useful for the community.
+
+I am not going to just Dox myself unless you retire me, but I have 20+ years of dev and tech lead experience at both startups and a fortune 50.
+The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various levels (TBD - up for ideas from community on best path). There will be no nuking or dumping of the chart from myside.
+
+### How It Will Launch 🚀
+
+- **Token Launch**: PaperTradr will initially launch alongside a token on pump.fun.
+- **Repository Access**: After the token reaches a certain market cap (probably lower than you'd expect), I'll make the repository public. Anyone will be able to download and use the extension.
+- **Chrome Web Store**: Once the token reaches an even higher market cap, I'll purchase a developer account and officially publish PaperTradr to the Chrome Web Store.
+
+---
+
 ## My Project: PaperTradr 📈
 
 **PaperTradr** is a simulation tool designed to make meme coin trading fun, educational, and risk-free! It currently supports trading on Photon (phase 1) and will expand to BullX and GmGn (phase 2). Let's take a look at its features:
@@ -10,44 +26,16 @@ Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome exte
 ### 🚀 Phase 1: Photon Support
 - ✅ **Buy and Sell Tracking**: Record every trade and keep track of your positions.
 - 📊 **Profit and Loss Tracking**: See how you're performing at a glance.
+- 🎛️ **Customizable Buttons**: Personalize the interface for your trading style.
 - 🌌 **Photon Support**: Trade on Photon, one of the most exciting platforms.
 - 💸 **1% Buy/Sell Fee Simulation**: Replicates the pump.fun trading environment.
 
 ### 🌟 Phase 2: BullX and GmGn Expansion
 - 💥 **BullX and GmGn Support**: Expand your simulation to more platforms.
-- 🎛️ **Customizable Buttons**: Personalize the interface for your trading style.
 - 🎲 **Configurable Random Slippage**: Experience realistic trading conditions.
 - ⏱️ **Configurable Buy Delays**: Simulate delays to reflect real-world trading limitations.
 - 💵 **Customizable Fees**: Add and tweak your own fees, tips, or other costs.
 - 🛠️ **Additional Fee Support**: Flexibility to simulate various scenarios.
-
----
-
-## How to Use 🛠️
-1. **Install the Chrome Extension** (Coming Soon! Released at a certain MC on Pump.Fun)
-2. Set up your preferences, including fees, slippage, and trading delays.
-3. Start simulating trades and track your performance!
-
----
-
-## Installation 📥
-
-Follow these steps to install the extension:
-
-1. **Download the Repository**:
-   - Go to the [repository page](https://github.com/papertraderdev/PaperTradr). (soon)
-   - Click the green "Code" button and select "Download ZIP."
-
-2. **Extract the ZIP**:
-   - Unzip the downloaded file to a folder on your computer.
-
-3. **Load the Extension in Chrome**:
-   - Open Chrome and navigate to `chrome://extensions/`.
-   - Enable "Developer mode" in the top-right corner.
-   - Click "Load unpacked" and select the folder where you extracted the ZIP.
-
-4. **Start Using PaperTradr**:
-   - The extension should now appear in your Chrome extensions. Click the icon to start simulating trades!
 
 ---
 
@@ -59,17 +47,32 @@ Follow these steps to install the extension:
 
 ---
 
+## How to Use 🛠️
+1. **Install the Chrome Extension**
+2. Start simulating trades and track your performance! (Now!)
+3. Set up your preferences, including fees, slippage, and trading delays. (Coming Soon!)
+
+---
+
+## Installation 📥
+
+For detailed installation instructions, visit the [PaperTradr repository](https://github.com/papertradedev/PaperTradr).
+
+---
+
 ## Connect with Me 🌐
 - 🐦 **Twitter**: [@papertraderdev](https://twitter.com/papertraderdev)
-- 🖥️ **Website**: [Coming Soon!]
+- 🖥️ **Website**: Will be linked on Chrome WebStore after a successful Pump.Fun launch.
 
 ---
 
 ## Contributing 🤝
 
 I welcome contributions, feedback, and ideas! Feel free to:
-- ⭐ Star this repository to show your support.
+- ⭐ Star the repository to show your support.
 - 🐛 Submit bugs or issues.
 - 🌟 Suggest new features or improvements.
 
+---
 
+### Thank You for Visiting! ✨
