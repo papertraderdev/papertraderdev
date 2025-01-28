@@ -1,6 +1,6 @@
 # Hi there, I'm @papertraderdev! 👋
 
-Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome extension that lets you simulate meme coin trading across various platforms. Dive into the world of trading without risking a single sat! 🚀
+Welcome to my GitHub profile! I'm the developer of **PaperTradr**, a Chrome extension that lets you simulate meme coin trading across various platforms. Dive into the world of trading without risking a single lamport! 🚀
 
 ---
 
