@@ -58,7 +58,7 @@ The goal is to purchase 5% of the coin at the launch and sell of 2-5% at various
 
 ## Installation 📥
 
-For detailed installation instructions, visit the [PaperTradr repository](https://github.com/papertradedev/PaperTradr).
+For detailed installation instructions, visit the [PaperTradr repository](https://github.com/papertraderdev/PaperTradr).
 
 ---
 
